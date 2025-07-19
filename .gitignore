@@ -1,0 +1,39 @@
+# Java compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build directories
+target/
+build/
+out/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
